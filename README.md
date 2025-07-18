@@ -11,6 +11,14 @@
 - 💡 Specializing in **deep learning for cardiovascular diagnostics**, with applications in ECG interpretation, video-based eye analysis, and EHR-based medical NLP  
 - 🧠 Passionate about **multimodal AI**, **generative models**, and **real-world medical AI deployments**  
 
+### 🔍 Research Interests
+- Deep learning for medical diagnosis  
+- Multimodal data fusion (ECG + EHR)  
+- Structured extraction from clinical notes using LLMs  
+- Edge AI
+- Generative models for image enhancement and super-resolution
+
+  
 <!--
 **pharvesh/pharvesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
