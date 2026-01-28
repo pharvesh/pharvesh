@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Pharvesh Salman Choudhary 👋</h1>
 
 <p align="center">
-  <em>Ph.D. | AI Researcher | Biomedical Imaging & Signal Processing</em>
+  <em>AI Researcher | Biomedical Imaging & Signal Processing| AI Compliance</em>
 </p>
 
 ### 🔬 About Me
